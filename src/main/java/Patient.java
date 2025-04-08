@@ -1,6 +1,7 @@
 public class Patient {
     static public void main (String[]args) {
 
+
     }
         String givenName;
         String familyName;
